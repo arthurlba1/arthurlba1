@@ -2,7 +2,7 @@
 ![Banner](/arthurlba1-dev-banner.png?raw=true)
 
 
-  ![arthurlba's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+  ![arthurlba's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurlba1&show_icons=true&theme=dracula)
 
 
 <!--
