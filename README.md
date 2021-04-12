@@ -1,10 +1,9 @@
 
 ![Banner](/arthurlba1-dev-banner.png?raw=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurlba1&show_icons=true&theme=dracula" />
-</a>
-  
+<div>
+  <a href="https://www.instagram.com/l.aarthur/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </div>
 
 
 <!--
